@@ -16,4 +16,5 @@
 - [ ] 検証環境テスト
 
 ## Backlog
+* Backlogで挙げられている課題やwikiに纏められている要件があればリンクを記載
 [RCMS_ON_DNP-1 開発用メールアカウントを発行する](https://diverta.backlog.jp/view/RCMS_ON_DNP-1?q=RCMS_ON_DNP-1)
